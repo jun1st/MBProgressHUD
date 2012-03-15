@@ -31,7 +31,7 @@ If you have a git tracked project, you can add MBProgressHUD as a submodule to y
 Usage
 =====
 
-Extensive documentation is provided in the header file (MBProgressHUD.h). In additiona a full Xcode demo project is included in the Demo directory. 
+Extensive documentation is provided in the header file (MBProgressHUD.h). In addition a full Xcode demo project is included in the Demo directory. 
 
 License
 =======
